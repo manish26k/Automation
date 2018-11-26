@@ -1,0 +1,5 @@
+ds12:21:34.522 [main] INFO  com.flipkart.testcases.flipkart_TestCases - Config properties files gets uploaded
+12:21:39.355 [main] INFO  com.flipkart.testcases.flipkart_TestCases - Chrome driver gets intialized
+12:21:49.811 [main] INFO  com.flipkart.testcases.flipkart_TestCases - Navigate to the Flipkart ecommerce website
+12:21:51.068 [main] INFO  com.flipkart.testcases.flipkart_TestCases - Flipkart login
+12:21:51.532 [main] INFO  com.flipkart.testcases.flipkart_TestCases - user gets logined into the flipkart site

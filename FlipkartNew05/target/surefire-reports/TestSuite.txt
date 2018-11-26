@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 53.489 sec <<< FAILURE! - in TestSuite
+generateReport(com.flipkart.testcases.flipkart_TestCases)  Time elapsed: 4.62 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/automationtesting/excelreport/Xl
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.flipkart.testcases.flipkart_TestCases.generateReport(flipkart_TestCases.java:190)
+

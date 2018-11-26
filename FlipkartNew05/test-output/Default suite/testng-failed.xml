@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.flipkart.testcases.flipkart_TestCases">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="flipkart_Login"/>
+          <include name="flipkart_homepage"/>
+          <include name="flipkart_cartPage"/>
+        </methods>
+      </class> <!-- com.flipkart.testcases.flipkart_TestCases -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
